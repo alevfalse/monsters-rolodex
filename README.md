@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-See it in action at https://alevfalse.github.io/monsters-rolodex  
+See it in action at https://alevosia.github.io/monsters-rolodex  
 
 ## Available Scripts
 
